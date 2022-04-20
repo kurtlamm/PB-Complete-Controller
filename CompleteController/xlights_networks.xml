@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="LAPTOP-95FL9ION" GlobalFPPProxy="">
+  <Controller Id="1" Name="PBCC1" Description="PB CompleteController by KurtControllers" Type="Ethernet" Vendor="FPP" Model="PB16" Variant="No Expansion" AutoSize="1" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" IP="192.168.7.2" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.7.2" BaudRate="1" NetworkType="DDP" MaxChannels="33632"/>
+  </Controller>
+</Networks>

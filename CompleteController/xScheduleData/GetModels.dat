@@ -1,0 +1,1 @@
+{"models":[{"name":"DC_Outputs_4A_Max","type":"Channel Block","startchannel":"17","channels":"16","stringtype":"Single Color Custom"},{"name":"Matrix","type":"Matrix","startchannel":"33","channels":"33600","stringtype":"RGB Nodes"},{"name":"Servos","type":"Channel Block","startchannel":"1","channels":"16","stringtype":"Single Color Custom"}]}
